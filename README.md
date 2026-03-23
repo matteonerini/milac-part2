@@ -1,9 +1,9 @@
 # Analog Computing for Signal Processing and Communications - Part II: Toward Gigantic MIMO Beamforming
 
-This code package is related to the paper:
+This repository contains code to reproduce the paper:
 
-M. Nerini and B. Clerckx, "[Analog Computing for Signal Processing and Communications - Part II: Toward Gigantic MIMO Beamforming](https://ieeexplore.ieee.org/document/11281878)," IEEE Trans. Signal Process., 2025.
+> M. Nerini, B. Clerckx, "[Analog computing for signal processing and communications - Part II: Toward gigantic MIMO beamforming](https://ieeexplore.ieee.org/document/11281878)," IEEE Trans. Signal Process., 2025.
 
-## Content of Code Package
+## Code
 
-The file `main_Figi.m` reproduces Fig. *i* in the paper, for *i* = 5, ..., 10.
+The script `main_Fign.m` reproduces Fig. *n*, for *n* = 5, ..., 10.
